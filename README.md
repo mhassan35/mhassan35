@@ -17,7 +17,7 @@
 
 ⚡ Fun fact: I like solving complex problems with code
 
-- <h2> Connet with <b>me</b> </b>
+<h2> Conntact with <b>me</b> </b>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mhassanmajeed" target="_blank">
