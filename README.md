@@ -1,13 +1,11 @@
 
-<h1 align="center">Hi 👋, My self Muhammad Hassan</h1>
+<h1 align="center">My self Muhammad Hassan</h1>
 
-👀 Interested in: Website Development 🌐
+👀 Interested in: Full Stack web development 🌐
 
-🌱 Currently learning: (Agentic AI) Artificial Intelligence 🤖
+🌱 Currently learning: Artificial Intelligence 🤖
 
-🔭 I’m currently working on Python
-
-👯 I’m looking to collaborate on AI
+🔭 Currently working on JavaScript/Python
 
 💬 Looking to collaborate on: Web Development, AI Projects, and anything innovative! 🚀
 
