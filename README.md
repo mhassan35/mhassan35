@@ -1,14 +1,34 @@
+<div align="center">
 
-<h1 align="center">My self Muhammad Hassan</h1>
+# I'm Muhammad Hassan
+### 🚀 Full Stack Developer | 🧠 AI Engineer
+</div>
 
-Interested in: Website development 🌐
+---
 
-Currently learning: Artificial Intelligence 🤖
+## 🚀 About Me
 
-Currently working on JavaScript/Python 🔭
+✨ Building production-ready **Web Applications** and **Native AI Systems**
 
-Looking to collaborate on: Web Development, AI Projects, and anything innovative! 💬 
+🧠 Working with **LLMs, AI Agents, Automation, MCP Servers, and Intelligent Workflows**
 
-📫 How to reach me: DM or email me at mhassan909234@gmail.com
+🌍 Passionate about solving real-world problems using modern technologies
 
-⚡ Fun fact: I like solving complex problems with code
+🤝 Open to collaborating on **AI**, **Full Stack**, **SaaS**, and **Open Source** projects
+
+📫 **Email:** **mhassan909234@gmail.com**
+
+---
+
+## 🎯 Focus Areas
+
+- 🤖 Native AI Development
+- 🌐 Full Stack Development
+- ⚡ Backend Systems & APIs
+- ☁️ Cloud-ready Applications
+- 🚀 Scalable Software Architecture
+
+---
+
+> *"The best way to predict the future is to invent it."*  
+> — **Alan Kay**
