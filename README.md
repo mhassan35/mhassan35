@@ -1,17 +1,17 @@
 <div align="center">
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm <span style="color:#58A6FF;">Muhammad Hassan</span>
+# 👋 Hi, I'm Muhammad Hassan
 
-### 🚀 Full Stack Developer &nbsp;•&nbsp; 🧠 Native AI Engineer
+### 🚀 Full Stack Developer • 🧠 Native AI Engineer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Production-Ready+Applications;Native+AI+Developer;LLMs+%7C+AI+Agents+%7C+Automation;Creating+Scalable+Software" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+Production-Ready+Applications;Native+AI+Developer;LLMs+%7C+AI+Agents+%7C+Automation;Creating+Scalable+Software"/>
 
-<br>
+<br><br>
 
-<img src="https://img.shields.io/badge/Full%20Stack-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF"/>
-<img src="https://img.shields.io/badge/Native%20AI-0D1117?style=for-the-badge&logo=openai&logoColor=00D9FF"/>
-<img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=n8n&logoColor=FF6D00"/>
-<img src="https://img.shields.io/badge/MCP%20Servers-0D1117?style=for-the-badge&logo=serverless&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/Full%20Stack-58A6FF?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Native%20AI-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Automation-FF6B35?style=for-the-badge&logo=n8n&logoColor=white"/>
+<img src="https://img.shields.io/badge/MCP%20Servers-00C853?style=for-the-badge&logo=serverless&logoColor=white"/>
 
 </div>
 
@@ -19,43 +19,27 @@
 
 # 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
+- ✨ Building production-ready **Web Applications** and **Native AI Systems**
 
-### 💡 What I Do
+- 🧠 Working with **LLMs, AI Agents, Automation, MCP Servers, and Intelligent Workflows**
 
-✨ Build **Production-Ready Web Applications**
+- 🌍 Passionate about solving real-world problems using modern technologies
 
-🧠 Develop **Native AI Systems**
+- 🤝 Open to collaborating on **AI**, **Full Stack**, **SaaS**, and **Open Source** projects
 
-🤖 Create **LLMs, AI Agents & Intelligent Workflows**
+---
 
-⚡ Design **Automation & MCP Server Solutions**
+# 🎯 Focus Areas
 
-🌍 Love solving **Real-World Problems** with modern technology.
+🟦 **Native AI Development**
 
-🤝 Open to **AI • Full Stack • SaaS • Open Source** collaborations.
+🟪 **Full Stack Development**
 
-</td>
+🟧 **Backend Systems & APIs**
 
-<td width="50%">
+🟩 **Cloud-ready Applications**
 
-## 🎯 Focus Areas
-
-🔹 🤖 Native AI Development
-
-🔹 🌐 Full Stack Development
-
-🔹 ⚡ Backend Systems & APIs
-
-🔹 ☁️ Cloud-ready Applications
-
-🔹 🚀 Scalable Software Architecture
-
-</td>
-</tr>
-</table>
+🟥 **Scalable Software Architecture**
 
 ---
 
@@ -63,13 +47,18 @@
 
 ## 📫 Connect With Me
 
-<a href="mailto:mhassan909234@gmail.com">
-<img src="https://img.shields.io/badge/Email-1F6FEB?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+mhassan909234@gmail.com
 
-<br><br>
+</div>
 
-> ### *"The best way to predict the future is to invent it."*
-> **— Alan Kay**
+---
+
+<div align="center">
+
+```diff
++ "The best way to predict the future is to invent it."
+```
+
+### — Alan Kay
 
 </div>
