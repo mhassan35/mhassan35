@@ -5,10 +5,6 @@
 ### 🚀 Full Stack Developer • 🧠 AI Engineer
 
 <p>
-Building modern <b>Web Applications</b> and <b>Native AI Systems</b> with a focus on performance, scalability, and intelligent automation.
-</p>
-
-<p>
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Native+AI+Developer;LLMs+%7C+AI+Agents+%7C+Automation;Building+Scalable+Software" alt="Typing SVG" />
 </p>
 
@@ -54,7 +50,7 @@ Building modern <b>Web Applications</b> and <b>Native AI Systems</b> with a focu
 
 📧 **mhassan909234@gmail.com**
 
-<br><br>
+<br>
 
 > ### *"The best way to predict the future is to invent it."*
 > **— Alan Kay**
