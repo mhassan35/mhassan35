@@ -1,6 +1,9 @@
 <div align="center">
+  
 # I'm Muhammad Hassan
+
 ### 🚀 Full Stack Developer | 🧠 AI Engineer
+
 </div>
 
 ## 🚀 About Me
@@ -19,9 +22,13 @@
 - 🚀 Scalable Software Architecture
 
 <div align="center">
+  
 ### 📫 Connect With Me
+
 📧 **mhassan909234@gmail.com**
+
 </div>
+
 <div align="center">
 
 > 💡 *"The best way to predict the future is to invent it."* — **Alan Kay**
