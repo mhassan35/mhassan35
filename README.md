@@ -1,10 +1,16 @@
-# Hi 👋, I'm Muhammad Hassan
+<div align="center">
+
+# 👋 I'm Muhammad Hassan
 
 ### 🚀 Full Stack Developer | 🧠 AI Engineer
 
+**Building modern Web Applications and Native AI Systems with AI-powered solutions.**
+
+</div>
+
 ---
 
-A passionate **Full Stack Developer** and **AI Engineer** building scalable software and intelligent AI systems.
+## 🚀 About Me
 
 - ✨ Building production-ready **Web Applications** and **Native AI Systems**
 
@@ -19,23 +25,27 @@ A passionate **Full Stack Developer** and **AI Engineer** building scalable soft
 ## 🎯 Focus Areas
 
 - 🤖 Native AI Development
-  
+
 - 🌐 Full Stack Development
-  
+
 - ⚡ Backend Systems & APIs
-  
+
 - ☁️ Cloud-ready Applications
-  
+
 - 🚀 Scalable Software Architecture
 
 ---
 
-## 📫 Connect
+
+## 📫 Connect With Me
 
 📧 **mhassan909234@gmail.com**
 
 ---
 
-## 💭 Quote
+<div align="center">
 
-> *"The best way to predict the future is to invent it."* — **Alan Kay**
+> *"The best way to predict the future is to invent it."*  
+> **— Alan Kay**
+
+</div>
